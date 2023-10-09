@@ -10,4 +10,4 @@ This folder includes all the Solidworks files and libraries used to design the h
 ### Other folders include the images and videos of the project, circuit design and simulation, and the PDF report of the project.
 
 ## Youtube Video: 
-[![Video](https://img.youtube.com/vi/sBs9JzHG70Q/img.jpg)](https://www.youtube.com/watch?v=sBs9JzHG70Q)
+[![Video](https://img.youtube.com/vi/sBs9JzHG70Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=sBs9JzHG70Q)
