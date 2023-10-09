@@ -8,3 +8,6 @@ The software design folder contains the 2 files, an Arduino file that has 2 code
 This folder includes all the Solidworks files and libraries used to design the hardware used.
 
 ### Other folders include the images and videos of the project, circuit design and simulation, and the PDF report of the project.
+
+## Youtube Video: 
+[![Video](https://img.youtube.com/vi/jXnoFqcAkQA/maxresdefault.jpg)](https://www.youtube.com/watch?v=jXnoFqcAkQA)
